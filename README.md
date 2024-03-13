@@ -9,6 +9,7 @@ Dự án này xây dựng một mô hình phân loại email là spam (thư rác
 + Lựa chọn mô hình tốt nhất: Dựa trên kết quả đánh giá, lựa chọn mô hình phù hợp nhất cho bài toán phân loại spam/ham.
 ### Kết quả
 Trong dự án này, mô hình SVM với TF-IDF Vectorizer đạt được kết quả tốt nhất với F1-score là 90%. Mô hình XGBoost với CountVectorizer cũng cho kết quả khá tốt với độ chính xác 94.42% và F1-score 89.98%.
+![image](https://github.com/FOX2920/DS102_Final_Project/assets/91709267/85d6f967-23b7-4644-a5ef-0ec03d1b800e)
 
 ### Cách sử dụng
 + Cài đặt các thư viện cần thiết: ```pip install -r requirements.txt```
